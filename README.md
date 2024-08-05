@@ -6,7 +6,7 @@ Web Developer & Cybersecurity Enthusiast
 
 * 🌍  I'm based in Manila, Philippines
 * ✉️  You can contact me at [fabonanadr@gmail.com](mailto:fabonanadr@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning laravel
 
 ### Skills
 
